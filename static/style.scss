@@ -1,0 +1,50 @@
+$myred: #F44236;
+$mypink: #E92662;
+$mypurple: #9C27B0;
+$mydarkpurple: #673AB7;
+$myindigo: #3F51B5;
+$myblue: #2197F3;
+$mylightblue: #11A9F3;
+$mycyan: #16BCD4;
+$myteal: #0E9688;
+$mygreen: #4DAF50;
+$mylightgreen: #8CC44A;
+$mylime: #CDDB39;
+$myyellow: #FEEA3A;
+$myamber: #FFC10A;
+$myorange: #FE9803;
+$mydarkorange: #FE5723;
+$mybrown: #785548;
+$mygrey: #9E9E9E;
+$mybluegrey: #607C8B;
+
+
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: white;
+}
+
+img {
+    width: 270px;
+    margin: 5px;
+}
+
+img:hover {
+    width: 280px;
+    border: 2px solid $mylightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#icon {
+    width: 60px;
+    height: 60px;
+    border: none;
+}
