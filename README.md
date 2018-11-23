@@ -1,3 +1,7 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+Web Programming sandbox project utilizing:
+- HTML
+- CSS, SCSS, Bootstrap
+- JavaScript
+- Python
