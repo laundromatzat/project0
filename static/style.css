@@ -5,12 +5,11 @@ body {
 }
 
 img {
-  width: 270px;
-  margin: 5px;
+  width: 360px;
+  padding: 5px;
 }
 
 img:hover {
-  width: 280px;
   border: 2px solid #11A9F3;
 }
 
